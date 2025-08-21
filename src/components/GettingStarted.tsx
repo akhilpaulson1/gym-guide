@@ -12,8 +12,8 @@ const GettingStarted = () => {
     {
       icon: <Clock className="h-8 w-8 text-accent" />,
       title: "Plan Your Schedule",
-      description: "Find 3-4 days per week that work with your class schedule for consistent workouts.",
-      tips: ["Morning workouts = less crowded gym", "Block time like you would for classes", "Start with 45-60 minute sessions"]
+      description: "Find 3-4 days per week that work for consistent workouts.",
+      tips: ["Morning workouts = less crowded gym", "Schedule like any important appointment", "Start with 45-60 minute sessions"]
     },
     {
       icon: <Users className="h-8 w-8 text-primary" />,
