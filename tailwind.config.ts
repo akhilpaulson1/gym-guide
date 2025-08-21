@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'fitness-blue': 'hsl(var(--fitness-blue))',
+				'fitness-green': 'hsl(var(--fitness-green))',
+				'fitness-light': 'hsl(var(--fitness-light))',
+				'fitness-dark': 'hsl(var(--fitness-dark))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
